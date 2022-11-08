@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/melissamahorg/SmartHotel360/_apis/build/status/melmah.mslearn-tailspin-spacegame-web?branchName=code-workflow)](https://dev.azure.com/melissamahorg/SmartHotel360/_build/latest?definitionId=6&branchName=code-workflow)
 
 # Contributing
 
